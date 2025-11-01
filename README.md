@@ -296,16 +296,17 @@ The WiFi scanner demonstrated that wireless network detection is straightforward
 ### Screenshots
 
 **Screenshot 1: Wokwi Code Editor**
-![Screenshot](https://raw.githubusercontent.com/WasaPumpkin/CSN190-Cybersecurity-Research-Project/main/research-notes/images/github10.PNG)
+![Screenshot](https://raw.githubusercontent.com/WasaPumpkin/CSN190-Cybersecurity-Research-Project/main/research-notes/images/Code1.PNG)
 
 **Screenshot 2: ESP32 Board Simulation**
-![ESP32 Board](images/Code2.png)
+![Screenshot](https://raw.githubusercontent.com/WasaPumpkin/CSN190-Cybersecurity-Research-Project/main/research-notes/images/Code2.PNG)
 
 **Screenshot 3: Serial Monitor Output**
-![Scan Results](images/Code3.png)
-
+![Screenshot](https://raw.githubusercontent.com/WasaPumpkin/CSN190-Cybersecurity-Research-Project/main/research-notes/images/Code3.PNG)
 **Screenshot 4: Full Wokwi Interface**
-![Complete View](images/Code4.png)
+![Screenshot](https://raw.githubusercontent.com/WasaPumpkin/CSN190-Cybersecurity-Research-Project/main/research-notes/images/Code4.PNG)
+**Screenshot 5: Full Wokwi Interface**
+![Screenshot](https://raw.githubusercontent.com/WasaPumpkin/CSN190-Cybersecurity-Research-Project/main/research-notes/images/Code5.PNG)
 
 ---
 
