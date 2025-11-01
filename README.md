@@ -295,10 +295,17 @@ The WiFi scanner demonstrated that wireless network detection is straightforward
 
 ### Screenshots
 
-[Insert Screenshot 1: Wokwi code editor showing WiFi Scanner code]
-[Insert Screenshot 2: ESP32 board diagram in simulation panel]
-[Insert Screenshot 3: Serial Monitor output showing scan results]
-[Insert Screenshot 4: Full Wokwi interface with code, board, and output]
+**Screenshot 1: Wokwi Code Editor**
+![WiFi Scanner Code](images/Code1.png)
+
+**Screenshot 2: ESP32 Board Simulation**
+![ESP32 Board](images/Code2.png)
+
+**Screenshot 3: Serial Monitor Output**
+![Scan Results](images/Code3.png)
+
+**Screenshot 4: Full Wokwi Interface**
+![Complete View](images/Code4.png)
 
 ---
 
