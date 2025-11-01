@@ -296,7 +296,7 @@ The WiFi scanner demonstrated that wireless network detection is straightforward
 ### Screenshots
 
 **Screenshot 1: Wokwi Code Editor**
-![WiFi Scanner Code](images/Code1.png)
+![Screenshot](https://raw.githubusercontent.com/WasaPumpkin/CSN190-Cybersecurity-Research-Project/main/research-notes/images/github10.PNG)
 
 **Screenshot 2: ESP32 Board Simulation**
 ![ESP32 Board](images/Code2.png)
